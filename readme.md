@@ -1,1 +1,1 @@
-You can find the demostration picture [here](http://madmuggle.me/articles/snakeGame.html).
+You can find the demostration picture [here](http://madmuggle.me/articles/SnakeGame.html).
